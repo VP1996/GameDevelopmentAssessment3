@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: cdebeca395f83ba4eb838f1de0a2adea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8033942356549447916
+    second: death PacMan_0
+  - first:
+      213: 4778859029418257017
+    second: death PacMan_1
+  - first:
+      213: 1853960407664450049
+    second: death PacMan_2
+  - first:
+      213: 9184494455394402634
+    second: death PacMan_3
+  - first:
+      213: 5832319301231345625
+    second: death PacMan_4
+  - first:
+      213: 6949996401711781021
+    second: death PacMan_5
+  - first:
+      213: -3983122632631084371
+    second: death PacMan_6
+  - first:
+      213: -2968124905943152720
+    second: death PacMan_7
+  - first:
+      213: 3393227263154756016
+    second: death PacMan_8
+  - first:
+      213: -5658785424377878242
+    second: death PacMan_9
+  - first:
+      213: -2061774023731876211
+    second: death PacMan_10
+  - first:
+      213: -1688494050019206412
+    second: death PacMan_11
+  - first:
+      213: 4005343561415415129
+    second: death PacMan_12
+  - first:
+      213: 2806429020700842990
+    second: death PacMan_13
+  - first:
+      213: -6863429996288559663
+    second: death PacMan_14
+  - first:
+      213: 4680192538376627280
+    second: death PacMan_15
+  - first:
+      213: 4476589576822326233
+    second: death PacMan_16
+  - first:
+      213: 3433387136074941341
+    second: death PacMan_17
+  - first:
+      213: 4511275779843389789
+    second: death PacMan_18
+  - first:
+      213: -8657617996932450316
+    second: death PacMan_19
+  - first:
+      213: 1175671005850130631
+    second: death PacMan_20
+  - first:
+      213: -5093913263485730622
+    second: death PacMan_21
+  - first:
+      213: -7621245530553935215
+    second: death PacMan_22
+  - first:
+      213: -676334185948319410
+    second: death PacMan_23
+  - first:
+      213: 2318992373474948969
+    second: death PacMan_24
+  - first:
+      213: 9157037301135019076
+    second: death PacMan_25
+  - first:
+      213: -2529088750365801287
+    second: death PacMan_26
+  - first:
+      213: -3337969474705076988
+    second: death PacMan_27
+  - first:
+      213: 230773461932654772
+    second: death PacMan_28
+  - first:
+      213: -8118968158354595877
+    second: death PacMan_29
+  - first:
+      213: -831473568546900406
+    second: death PacMan_30
+  - first:
+      213: -7706058166038631020
+    second: death PacMan_31
+  - first:
+      213: -3709564060994082240
+    second: death PacMan_32
+  - first:
+      213: -5653497553130294758
+    second: death PacMan_33
+  - first:
+      213: 5937373567626468315
+    second: death PacMan_34
+  - first:
+      213: 5581137503729790089
+    second: death PacMan_35
+  - first:
+      213: 3494541066099326798
+    second: death PacMan_36
+  - first:
+      213: -2671677881677295294
+    second: death PacMan_37
+  - first:
+      213: -1474441973647557444
+    second: death PacMan_38
+  - first:
+      213: -785645128498519649
+    second: death PacMan_39
+  - first:
+      213: -3295516329921386022
+    second: death PacMan_40
+  - first:
+      213: 2228685448312412377
+    second: death PacMan_41
+  - first:
+      213: 5817103385955132223
+    second: death PacMan_42
+  - first:
+      213: -5351374559599720590
+    second: death PacMan_43
+  - first:
+      213: 3772693313889218184
+    second: death PacMan_44
+  - first:
+      213: 5653186738854570378
+    second: death PacMan_45
+  - first:
+      213: -2137675317568865961
+    second: death PacMan_46
+  - first:
+      213: -3515717240132224385
+    second: death PacMan_47
+  - first:
+      213: -2075818531197441423
+    second: death PacMan_48
+  - first:
+      213: -3904200710058943629
+    second: death PacMan_49
+  - first:
+      213: -5906442589628409033
+    second: death PacMan_50
+  - first:
+      213: 15873473515749424
+    second: death PacMan_51
+  - first:
+      213: -6267716181969971087
+    second: death PacMan_52
+  - first:
+      213: -7304594685711192471
+    second: death PacMan_53
+  - first:
+      213: 3607872353757798968
+    second: death PacMan_54
+  - first:
+      213: -3961589924547038679
+    second: death PacMan_55
+  - first:
+      213: 1164552215779536653
+    second: death PacMan_56
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: death PacMan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fc7eb0ef3b18090800000000000000
+      internalID: -8033942356549447916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death PacMan_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa420c7fae15240800000000000000
+      internalID: 4778859029418257017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death PacMan_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a5a760b279ab910800000000000000
+      internalID: 1853960407664450049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death PacMan_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41045fab01e57f70800000000000000
+      internalID: 9184494455394402634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death PacMan_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df7c86e08f80f050800000000000000
+      internalID: 5832319301231345625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death PacMan_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94164a97e8537060800000000000000
+      internalID: 6949996401711781021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death PacMan_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa9431b11b19b8c0800000000000000
+      internalID: -3983122632631084371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death PacMan_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7c444bf1a1fc6d0800000000000000
+      internalID: -2968124905943152720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death PacMan_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9928eb73a271f20800000000000000
+      internalID: 3393227263154756016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death PacMan_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e196cc753a4f771b0800000000000000
+      internalID: -5658785424377878242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death PacMan_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e655cf27b1363e0800000000000000
+      internalID: -2061774023731876211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death PacMan_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa9e378b934198e0800000000000000
+      internalID: -1688494050019206412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
