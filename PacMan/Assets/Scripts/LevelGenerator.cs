@@ -4,7 +4,16 @@ using UnityEngine;
 
 public class LevelGenerator : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public GameObject Empty;
+    public GameObject OutsideCorner;
+    public GameObject OutsideWall;
+    public GameObject InsideCorner;
+    public GameObject InsideWall;
+    public GameObject StandardPellet;
+    public GameObject PowerPellet;
+    public GameObject T_Junction;
+     
+
     void Start()
     {
         
