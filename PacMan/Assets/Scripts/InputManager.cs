@@ -19,7 +19,7 @@ public class InputManager : MonoBehaviour
     
     void Start()
     {
-        PacMan = Instantiate(PacMan, new Vector3(4f, -6.4f, 0f), Quaternion.identity);
+
         m_Animator = PacMan.GetComponent<Animator>();
         endPos = new Vector3(1.28f, -6.4f, 0.0f);
         tweener = GetComponent<Tweener>();
