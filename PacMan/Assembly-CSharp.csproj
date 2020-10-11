@@ -63,44 +63,51 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\GameController.cs" />
-    <Compile Include="Assets\Scripts\GhostAnimContrloller.cs" />
-    <Compile Include="Assets\Scripts\InputManager.cs" />
-    <Compile Include="Assets\Scripts\LevelGenerator.cs" />
-    <Compile Include="Assets\Scripts\Tween.cs" />
-    <Compile Include="Assets\Scripts\Tweener.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\StartScreen\BordersInt.cs" />
+    <Compile Include="Assets\Scripts\StartScreen\ColorChange.cs" />
+    <Compile Include="Assets\Scripts\StartScreen\CoolAnimation.cs" />
+    <Compile Include="Assets\Scripts\StartScreen\FlashColor.cs" />
+    <Compile Include="Assets\Scripts\StartScreen\Tweeenees.cs" />
+    <Compile Include="Assets\Scripts\StartScreen\Tweeners.cs" />
+    <Compile Include="Assets\Scripts\level1\GameController.cs" />
+    <Compile Include="Assets\Scripts\level1\GhostAnimContrloller.cs" />
+    <Compile Include="Assets\Scripts\level1\InputManager.cs" />
+    <Compile Include="Assets\Scripts\level1\LevelGenerator.cs" />
+    <Compile Include="Assets\Scripts\level1\Tween.cs" />
+    <Compile Include="Assets\Scripts\level1\Tweener.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Users/vposh/Desktop/Ass 3 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Users/vposh/Desktop/Ass 3 and 4 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Users/vposh/Desktop/Ass 3 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Users/vposh/Desktop/Ass 3 and 4 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Users/vposh/Desktop/Ass 3 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Users/vposh/Desktop/Ass 3 and 4 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Users/vposh/Desktop/Ass 3 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Users/vposh/Desktop/Ass 3 and 4 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Users/vposh/Desktop/Ass 3 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Users/vposh/Desktop/Ass 3 and 4 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Users/vposh/Desktop/Ass 3 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Users/vposh/Desktop/Ass 3 and 4 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Users/vposh/Desktop/Ass 3 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Users/vposh/Desktop/Ass 3 and 4 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/Users/vposh/Desktop/Ass 3 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>D:/Users/vposh/Desktop/Ass 3 and 4 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/Users/vposh/Desktop/Ass 3 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>D:/Users/vposh/Desktop/Ass 3 and 4 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Users/vposh/Desktop/Ass 3 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Users/vposh/Desktop/Ass 3 and 4 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Users/vposh/Desktop/Ass 3 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Users/vposh/Desktop/Ass 3 and 4 Game Development Pac Man/GameDevelopmentAssessment3/PacMan/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files/Unity/Hub/Editor/2019.4.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
