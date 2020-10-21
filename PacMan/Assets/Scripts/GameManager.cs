@@ -34,9 +34,11 @@ public class GameManager : MonoBehaviour
         if (scene.buildIndex == 1)
         {
 
-            Debug.Log("jefffff");
+            //Debug.Log("jefffff");
 
 
         }
     }
+
+    
 }
